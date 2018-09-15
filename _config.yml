@@ -1,15 +1,19 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Regular Adventurer
+author: Regina Burford
+email: rmburford@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi! I'm Regina and I can help your brand. I have a demonstrated background
+  in customer service and technical support working in consumer electronics and 
+  am persuing a Bachelor of Arts in Information Science and eSociety and am looking
+  to bring my skills to the table to help increase your brand awareness and grow
+  your audience. I can do this through visual content and writing, as well as collaborate
+  with partners across multiple projects at once to make sure that you're getting 
+  exactly the right results. Contact me now to find out how we can work together!
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @_reginamaxine
+github_username:  @rmburford
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minima
