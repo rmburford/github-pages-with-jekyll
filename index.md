@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Regina Burford
 
-I'm glad you are here. I plan to talk about ...
+Please stay tuned! More awesome stuff is on its way!
